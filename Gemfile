@@ -25,3 +25,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+gem "pathutil", "0.16.1"
+gem "pathutil", "0.16.1"

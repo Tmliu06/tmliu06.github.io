@@ -12,11 +12,11 @@ repository               : "tmliu06.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  G-NNH14LGM24
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification :  Z5qW54seARtSaQEQRrguy6_HMNOQefr7zScrgrmBym4
+bing_site_verification   :  A7936051B8F7643D909ECBC5424EC71E
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=nT5DxnMAAAAJ"
-  email            : "Tianming.Liu@monash.edu"
+  email            : 
   researchgate     : "https://www.researchgate.net/profile/Tianming-Liu-2"
   uri              :
   bitbucket        :
@@ -44,7 +44,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/96/5013-2.html"
   orcid            : "https://orcid.org/0000-0002-5216-933X"
   pinterest        :
   soundcloud       :

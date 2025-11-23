@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 🎃 About Me
 
-I'm currently a Ph.D. candidate at [Monash University](https://www.monash.edu/). I obtained my bachelor's and master's degrees from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) (BUPT) in 2017 and 2020, respectively. My research interests focus on mobile security and software engineering. You can reach me at tianming.liu AT monash.edu.
+I obtained my Ph.D. from [Monash University](https://www.monash.edu/) in 2025, and my bachelor's and master's degrees from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) (BUPT) in 2017 and 2020, respectively. My research interests focus on mobile security and software engineering. You can reach me at tianming.liu AT monash.edu.
 
 # 📝 Publications
 

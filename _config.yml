@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tianming Liu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : 
-  location         : 
-  employer         :
+  bio              : "Postdoc@HUST"
+  location         : "Wuhan, China"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=nT5DxnMAAAAJ"
   email            : 

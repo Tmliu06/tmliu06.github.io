@@ -63,7 +63,7 @@ If you would like to reach me, please send an email to tmliu AT hust.edu.cn
 <li>
 <div><strong>Beyond App Markets: Demystifying Underground Mobile App Distribution Via Telegram</strong></div>
 <div>Yanhui Guo, Dong Wang, Liu Wang, Yongsheng Fang, Chao Wang, Minghui Yang, <strong>Tianming Liu*</strong>, Haoyu Wang*</div>
-<div><strong><em>ACM SIGMETRICS 2025</em></strong>&nbsp;&nbsp;<a href="https://dl.acm.org/doi/10.1145/3700432" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
+<div><strong><em>SIGMETRICS 2025</em></strong>&nbsp;&nbsp;<a href="https://dl.acm.org/doi/10.1145/3700432" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
 </li>
 
 <li>
@@ -81,7 +81,7 @@ If you would like to reach me, please send an email to tmliu AT hust.edu.cn
 <li>
 <div><strong>The Arts and Crafts of Android Adware Across a Decade</strong></div>
 <div>Chao Wang<sup>#</sup>, <strong>Tianming Liu<sup>#</sup></strong>, Yanjie Zhao, Lin Zhang, Xiaoning Du, Li Li, Haoyu Wang</div>
-<div><strong><em>Automated Software Engineering</em></strong>&nbsp;&nbsp;<a href="https://link.springer.com/article/10.1007/s10515-025-00575-9" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
+<div><strong><em>Automated Software Engineering (ASE Journal)</em></strong>&nbsp;&nbsp;<a href="https://link.springer.com/article/10.1007/s10515-025-00575-9" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
 </li>
 
 <li>
@@ -117,7 +117,7 @@ If you would like to reach me, please send an email to tmliu AT hust.edu.cn
 <li>
 <div><strong>WalletRadar: Towards Automating the Detection of Vulnerabilities in Browser-based Cryptocurrency Wallets</strong></div>
 <div>Pengcheng Xia, Yanhui Guo, Zhaowen Lin, Jun Wu, Pengbo Duan, Ningyu He, Kailong Wang, <strong>Tianming Liu</strong>, Yinliang Yue, Guoai Xu</div>
-<div><strong><em>Automated Software Engineering</em></strong>&nbsp;&nbsp;<a href="https://link.springer.com/article/10.1007/s10515-024-00430-3" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
+<div><strong><em>Automated Software Engineering (ASE Journal)</em></strong>&nbsp;&nbsp;<a href="https://link.springer.com/article/10.1007/s10515-024-00430-3" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
 </li>
 
 <li>

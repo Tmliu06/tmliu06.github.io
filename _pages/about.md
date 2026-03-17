@@ -183,9 +183,9 @@ If you would like to reach me, please send an email to tmliu AT hust.edu.cn
 
 # 💼 Services
 
-I have served as a reviewer for top venues including CSUR, TSE, TOSEM, CHI, Computers & Security, and IST.
+I have served as a reviewer for ACM Computing Surveys (CSUR), TSE, TOSEM, CHI, Computers & Security (COSE), and Information and Software Technology (IST).
 
-I have also served as a sub-reviewer on over 50 papers over the years, covering venues including S&P, CCS, USENIX Security, ICSE, FSE, ASE, ISSTA, NSDI, WWW, IMC, TDSC, AsiaCCS, PoPETs, and more.
+I have also served as a sub-reviewer on more than 50 papers over the years, covering venues including S&P, CCS, USENIX Security, ICSE, FSE, ASE, ISSTA, WWW, IMC, TDSC, and more.
 
 <div style="text-align: center; color: #666; font-size: 0.9em; margin-top: 25px;">
 Last Updated: 2026-03-12

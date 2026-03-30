@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 🎃 About Me
 
-I am a postdoctoral researcher in the [School of Cyber Science and Engineering](https://cse.hust.edu.cn/) at [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), and my collaborating supervisor is [Prof. Haoyu Wang](https://howiepku.github.io/).
+I am a postdoctoral researcher in the [School of Cyber Science and Engineering](https://cse.hust.edu.cn/) at [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), where I work in the Security PRIDE Research Group led by [Prof. Haoyu Wang](https://howiepku.github.io/), my collaborating supervisor.
 I received my Ph.D. from [Monash University](https://www.monash.edu/) in 2025, under the supervision of [Prof. Li Li](https://lilicoding.github.io/). Prior to that, I received my bachelor's and master's degrees from [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/) in 2017 and 2020, respectively.  
 
 My research interests lie at the intersection of software security and software engineering, with a particular focus on mobile security. I am especially interested in mobile app security, including app analysis, compliance checking, and ecosystem-wide characterization; as well as the emerging area of mobile agent security, including its attack surfaces and defenses. My work aims to improve the security, privacy, and trustworthiness of the mobile ecosystem at scale.  
@@ -20,7 +20,7 @@ If you would like to reach me, please send an email to tmliu AT hust.edu.cn
 
 # 📝 Publications
 
-<p style="font-size: 0.75em;"><strong>[<sup>#</sup> Co-first Author, * Corresponding Author]</strong></p>
+<p style="font-size: 0.75em;"><strong>[<sup>#</sup> Co-first Author, * Corresponding Author, <sup>(s)</sup> Student I advised/co-advised during the work]</strong></p>
 
 <ol>
 
@@ -37,6 +37,12 @@ If you would like to reach me, please send an email to tmliu AT hust.edu.cn
 </li> -->
 
 <li>
+<div><strong>An Empirical Analysis of Rust Integration in Android Open Source Project</strong></div>
+<div>Yinte Fan, Chao Wang, Zikan Dong, <strong>Tianming Liu</strong>, Haoyu Wang</div>
+<div><strong><em>FSE 2026 Industry Track</em></strong>&nbsp;&nbsp;<a href="#" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
+</li>
+
+<li>
 <div><strong>NotDec: WebAssembly Decompilation With Inter-Procedural Type Recovery</strong></div>
 <div>Jikai Wang, Ningyu He, <strong>Tianming Liu</strong>, Junhai Wang, Haoyu Wang</div>
 <div><strong><em>ICSE 2026</em></strong>&nbsp;&nbsp;<a href="#" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
@@ -44,43 +50,43 @@ If you would like to reach me, please send an email to tmliu AT hust.edu.cn
 
 <li>
 <div><strong>Doxing-as-a-Service: Demystifying the Chinese Online Doxing Ecosystem</strong></div>
-<div>Yiran Gao, Pengcheng Xia, Liu Wang*, <strong>Tianming Liu*</strong>, Haoyu Wang</div>
+<div>Yiran Gao<strong><sup>(s)</sup></strong>, Pengcheng Xia, Liu Wang*, <strong>Tianming Liu*</strong>, Haoyu Wang</div>
 <div><strong><em>WWW 2026</em></strong>&nbsp;&nbsp;<a href="#" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
 </li>
 
 <li>
 <div><strong>LLMDroid: Enhancing Automated Mobile App GUI Testing Coverage with Large Language Model Guidance</strong></div>
-<div>Chenxu Wang<sup>#</sup>, <strong>Tianming Liu<sup>#</sup></strong>, Yanjie Zhao, Minghui Yang, Haoyu Wang</div>
+<div>Chenxu Wang<strong><sup>(s)</sup></strong><sup>#</sup>, <strong>Tianming Liu<sup>#</sup></strong>, Yanjie Zhao, Minghui Yang, Haoyu Wang</div>
 <div><strong><em>FSE 2025</em></strong>&nbsp;&nbsp;<a href="https://dl.acm.org/doi/10.1145/3715763" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
 </li>
 
 <li>
 <div><strong>Walls Have Ears: Demystifying Notification Listener Usage in Android Apps</strong></div>
-<div>Jiapeng Deng<sup>#</sup>, <strong>Tianming Liu<sup>#</sup></strong>, Yanjie Zhao, Chao Wang, Lin Zhang, Haoyu Wang</div>
+<div>Jiapeng Deng<strong><sup>(s)</sup></strong><sup>#</sup>, <strong>Tianming Liu<sup>#</sup></strong>, Yanjie Zhao, Chao Wang, Lin Zhang, Haoyu Wang</div>
 <div><strong><em>ISSTA 2025</em></strong>&nbsp;&nbsp;<a href="https://dl.acm.org/doi/10.1145/3728898" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
 </li>
 
 <li>
 <div><strong>Beyond App Markets: Demystifying Underground Mobile App Distribution Via Telegram</strong></div>
-<div>Yanhui Guo, Dong Wang, Liu Wang, Yongsheng Fang, Chao Wang, Minghui Yang, <strong>Tianming Liu*</strong>, Haoyu Wang*</div>
+<div>Yanhui Guo, Dong Wang<strong><sup>(s)</sup></strong>, Liu Wang, Yongsheng Fang<strong><sup>(s)</sup></strong>, Chao Wang, Minghui Yang, <strong>Tianming Liu*</strong>, Haoyu Wang*</div>
 <div><strong><em>SIGMETRICS 2025</em></strong>&nbsp;&nbsp;<a href="https://dl.acm.org/doi/10.1145/3700432" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
 </li>
 
 <li>
 <div><strong>Are iOS Apps Immune to Abusive Advertising Practices?</strong></div>
-<div><strong>Tianming Liu</strong>, Jiapeng Deng, Yanjie Zhao, Xiao Chen, Xiaoning Du, Li Li, Haoyu Wang</div>
+<div><strong>Tianming Liu</strong>, Jiapeng Deng<strong><sup>(s)</sup></strong>, Yanjie Zhao, Xiao Chen, Xiaoning Du, Li Li, Haoyu Wang</div>
 <div><strong><em>FSE 2025 Industry Track</em></strong>&nbsp;&nbsp;<a href="https://dl.acm.org/doi/10.1145/3696630.3728571" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
 </li>
 
 <li>
 <div><strong>Mobile App Analysis in the New Era: Challenges and the Road Ahead</strong></div>
-<div>Jiale Wu, Yanjie Zhao, <strong>Tianming Liu</strong>, Haoyu Wang</div>
+<div>Jiale Wu<strong><sup>(s)</sup></strong>, Yanjie Zhao, <strong>Tianming Liu</strong>, Haoyu Wang</div>
 <div><strong><em>2030 Software Engineering Workshop, co-located with FSE 2025</em></strong>&nbsp;&nbsp;<a href="https://conf.researchr.org/home/2030-se-2025" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
 </li>
 
 <li>
 <div><strong>The Arts and Crafts of Android Adware Across a Decade</strong></div>
-<div>Chao Wang<sup>#</sup>, <strong>Tianming Liu<sup>#</sup></strong>, Yanjie Zhao, Lin Zhang, Xiaoning Du, Li Li, Haoyu Wang</div>
+<div>Chao Wang<strong><sup>(s)</sup></strong><sup>#</sup>, <strong>Tianming Liu<sup>#</sup></strong>, Yanjie Zhao, Lin Zhang, Xiaoning Du, Li Li, Haoyu Wang</div>
 <div><strong><em>Automated Software Engineering (ASE Journal)</em></strong>&nbsp;&nbsp;<a href="https://link.springer.com/article/10.1007/s10515-025-00575-9" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
 </li>
 
@@ -98,7 +104,7 @@ If you would like to reach me, please send an email to tmliu AT hust.edu.cn
 
 <li>
 <div><strong>Towards Demystifying Android Adware: Dataset and Payload Location</strong></div>
-<div>Chao Wang<sup>#</sup>, <strong>Tianming Liu<sup>#</sup></strong>, Yanjie Zhao, Lin Zhang, Xiaoning Du, Li Li, Haoyu Wang</div>
+<div>Chao Wang<strong><sup>(s)</sup></strong><sup>#</sup>, <strong>Tianming Liu<sup>#</sup></strong>, Yanjie Zhao, Lin Zhang, Xiaoning Du, Li Li, Haoyu Wang</div>
 <div><strong><em>A-Mobile 2024, co-located with ASE 2024</em></strong>&nbsp;&nbsp;<a href="https://dl.acm.org/doi/10.1145/3691621.3694948" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
 </li>
 

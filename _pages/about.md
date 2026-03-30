@@ -50,7 +50,7 @@ If you would like to reach me, please send an email to tmliu AT hust.edu.cn
 
 <li>
 <div><strong>Doxing-as-a-Service: Demystifying the Chinese Online Doxing Ecosystem</strong></div>
-<div>Yiran Gao<strong><sup>(s)</sup></strong>, Pengcheng Xia, Liu Wang*, <strong>Tianming Liu*</strong>, Haoyu Wang</div>
+<div>Yiran Gao, Pengcheng Xia, Liu Wang*, <strong>Tianming Liu*</strong>, Haoyu Wang</div>
 <div><strong><em>WWW 2026</em></strong>&nbsp;&nbsp;<a href="#" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
 </li>
 

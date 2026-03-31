@@ -122,7 +122,8 @@ If you would like to reach me, please send an email to tmliu AT hust.edu.cn
 
 <li>
 <div><strong>WalletRadar: Towards Automating the Detection of Vulnerabilities in Browser-based Cryptocurrency Wallets</strong></div>
-<div>Pengcheng Xia, Yanhui Guo, Zhaowen Lin, Jun Wu, Pengbo Duan, Ningyu He, Kailong Wang, <strong>Tianming Liu</strong>, Yinliang Yue, Guoai Xu</div>
+<!-- <div>Pengcheng Xia, Yanhui Guo, Zhaowen Lin, Jun Wu, Pengbo Duan, Ningyu He, Kailong Wang, <strong>Tianming Liu</strong>, Yinliang Yue, Guoai Xu, Haoyu Wang</div> -->
+<div>P. Xia, Y. Guo, Z. Lin, J. Wu, P. Duan, N. He, K. Wang, <strong>Tianming Liu</strong>, Y. Yue, G. Xu, H. Wang</div>
 <div><strong><em>Automated Software Engineering (ASE Journal)</em></strong>&nbsp;&nbsp;<a href="https://link.springer.com/article/10.1007/s10515-024-00430-3" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
 </li>
 
@@ -189,10 +190,12 @@ If you would like to reach me, please send an email to tmliu AT hust.edu.cn
 
 # 💼 Services
 
-I have served as a reviewer for ACM Computing Surveys (CSUR), TSE, TOSEM, CHI, Computers & Security (COSE), and Information and Software Technology (IST).
+- **PC:** Internetware 2026
 
-I have also served as a sub-reviewer on more than 50 papers over the years, covering venues including S&P, CCS, USENIX Security, ICSE, FSE, ASE, ISSTA, WWW, IMC, TDSC, and more.
+- **Reviewer:** CHI 2026, ACM Computing Surveys (CSUR), TSE, TOSEM, Computers & Security (COSE), Journal of Systems and Software (JSS), Information and Software Technology (IST)
+
+- **Sub-reviewer:** I have also served as a sub-reviewer for more than 50 papers over the years, covering venues including S&P, CCS, USENIX Security, ICSE, FSE, ASE, ISSTA, WWW, IMC, TDSC, and more
 
 <div style="text-align: center; color: #666; font-size: 0.9em; margin-top: 25px;">
-Last Updated: 2026-03-12
+Last Updated: 2026-03-31
 </div>

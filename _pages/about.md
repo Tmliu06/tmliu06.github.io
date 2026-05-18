@@ -57,7 +57,8 @@ If you would like to reach me, please send an email to tmliu AT hust.edu.cn
 <li>
 <div><strong>Mobile App Analysis in the New Era: Challenges and the Road Ahead</strong></div>
 <div>Jiale Wu<strong><sup>(s)</sup></strong><sup>#</sup>, <strong>Tianming Liu<sup>#</sup></strong>, Yanjie Zhao, Haoyu Wang</div>
-<div><strong><em>ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted in 2026</em></strong>&nbsp;&nbsp;<a href="https://conf.researchr.org/home/2030-se-2025" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
+<div><strong><em>ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted in 2026</em></strong>&nbsp;&nbsp;<a href="#" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
+
 </li>
 
 <li>

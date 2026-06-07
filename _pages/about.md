@@ -39,7 +39,7 @@ If you would like to reach me, please send an email to tmliu AT hust.edu.cn
 <li>
 <div><strong>NotDec: WebAssembly Decompilation With Inter-Procedural Type Recovery</strong></div>
 <div>Jikai Wang, Ningyu He, <strong>Tianming Liu</strong>, Junhai Wang, Haoyu Wang</div>
-<div><strong><em>ICSE 2026</em></strong>&nbsp;&nbsp;<a href="#" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
+<div><strong><em>ICSE 2026</em></strong></div>
 </li>
 
 <li>
@@ -51,13 +51,13 @@ If you would like to reach me, please send an email to tmliu AT hust.edu.cn
 <li>
 <div><strong>An Empirical Analysis of Rust Integration in Android Open Source Project</strong></div>
 <div>Yinte Fan, Chao Wang, Zikan Dong, <strong>Tianming Liu</strong>, Haoyu Wang</div>
-<div><strong><em>FSE 2026 Industry Track</em></strong>&nbsp;&nbsp;<a href="#" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
+<div><strong><em>FSE 2026 Industry Track</em></strong></div>
 </li>
 
 <li>
 <div><strong>Mobile App Analysis in the New Era: Challenges and the Road Ahead</strong></div>
 <div>Jiale Wu<strong><sup>(s)</sup></strong><sup>#</sup>, <strong>Tianming Liu<sup>#</sup></strong>, Yanjie Zhao, Haoyu Wang</div>
-<div><strong><em>ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted in 2026</em></strong>&nbsp;&nbsp;<a href="#" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
+<div><strong><em>ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted in 2026</em></strong></div>
 
 </li>
 
@@ -148,7 +148,7 @@ If you would like to reach me, please send an email to tmliu AT hust.edu.cn
 
 <li>
 <div><strong>ATVHunter: Reliable Version Detection of Third-party Libraries for Vulnerability Identification in Android Applications</strong></div>
-<div>Xian Zhan, Lingling Fan, Sen Chen, Feng We, <strong>Tianming Liu</strong>, Xiapu Luo, Yang Liu</div>
+<div>Xian Zhan, Lingling Fan, Sen Chen, Feng Wu, <strong>Tianming Liu</strong>, Xiapu Luo, Yang Liu</div>
 <div><strong><em>ICSE 2021,</em></strong>&nbsp;&nbsp;<strong><em style="color: #9b1c1c;">🏅ACM SIGSOFT Distinguished Paper Award</em></strong>&nbsp;&nbsp;<a href="https://dl.acm.org/doi/10.1109/ICSE43902.2021.00150" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
 </li>
 

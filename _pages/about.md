@@ -37,28 +37,39 @@ If you would like to reach me, please send an email to tmliu AT hust.edu.cn
 </li> -->
 
 <li>
+<div><strong>One Resource to Break Them All: Exploiting Malformed Resources for Permanent Denial-of-Service in Android</strong></div>
+<div>Sheng Cao, Hao Zhou, Yanjie Zhao, <strong>Tianming Liu</strong>, Songzhou Shi, Haoyu Wang</div>
+<div><strong><em>CCS 2026</em></strong></div>
+</li>
+
+<li>
 <div><strong>NotDec: WebAssembly Decompilation With Inter-Procedural Type Recovery</strong></div>
 <div>Jikai Wang, Ningyu He, <strong>Tianming Liu</strong>, Junhai Wang, Haoyu Wang</div>
 <div><strong><em>ICSE 2026</em></strong></div>
 </li>
 
 <li>
+<div><strong>Mobile App Analysis in the New Era: Challenges and the Road Ahead</strong></div>
+<div>Jiale Wu<strong><sup>(s)</sup></strong><sup>#</sup>, <strong>Tianming Liu<sup>#</sup></strong>, Yanjie Zhao, Haoyu Wang</div>
+<div><strong><em>ACM Transactions on Software Engineering and Methodology (TOSEM), Published in 2026</em></strong>&nbsp;&nbsp;<a href="https://dl.acm.org/doi/10.1145/3819579" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
+</li>
+
+<li>
 <div><strong>Doxing-as-a-Service: Demystifying the Chinese Online Doxing Ecosystem</strong></div>
-<div>Yiran Gao, Pengcheng Xia, Liu Wang*, <strong>Tianming Liu*</strong>, Haoyu Wang</div>
+<div>Yiran Gao<strong><sup>(s)</sup></strong>, Pengcheng Xia, Liu Wang*, <strong>Tianming Liu*</strong>, Haoyu Wang</div>
 <div><strong><em>WWW 2026</em></strong>&nbsp;&nbsp;<a href="https://dl.acm.org/doi/10.1145/3774904.3792296" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
+</li>
+
+<li>
+<div><strong>An Empirical Study of Security Risks in the Android Push Notification Ecosystem</strong></div>
+<div>Shilong Hu<strong><sup>(s)</sup></strong>, Zikan Dong, Chao Wang, <strong>Tianming Liu*</strong>, Haoyu Wang</div>
+<div><strong><em>ASE 2026 Industry Track</em></strong></div>
 </li>
 
 <li>
 <div><strong>An Empirical Analysis of Rust Integration in Android Open Source Project</strong></div>
 <div>Yinte Fan, Chao Wang, Zikan Dong, <strong>Tianming Liu</strong>, Haoyu Wang</div>
-<div><strong><em>FSE 2026 Industry Track</em></strong></div>
-</li>
-
-<li>
-<div><strong>Mobile App Analysis in the New Era: Challenges and the Road Ahead</strong></div>
-<div>Jiale Wu<strong><sup>(s)</sup></strong><sup>#</sup>, <strong>Tianming Liu<sup>#</sup></strong>, Yanjie Zhao, Haoyu Wang</div>
-<div><strong><em>ACM Transactions on Software Engineering and Methodology (TOSEM), Published in 2026</em></strong>&nbsp;&nbsp;<a href="https://dl.acm.org/doi/10.1145/3819579" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
-
+<div><strong><em>FSE 2026 Industry Track</em></strong>&nbsp;&nbsp;<a href="https://dl.acm.org/doi/abs/10.1145/3803437.3805227" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
 </li>
 
 <li>
@@ -198,5 +209,5 @@ If you would like to reach me, please send an email to tmliu AT hust.edu.cn
 - **Sub-reviewer:** I have served as a sub-reviewer for more than 50 papers over the years, covering venues including S&P, CCS, USENIX Security, ICSE, FSE, ASE, ISSTA, WWW, IMC, TDSC, and more
 
 <div style="text-align: center; color: #666; font-size: 0.9em; margin-top: 25px;">
-Last Updated: 2026-05-16
+Last Updated: 2026-07-25
 </div>

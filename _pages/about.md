@@ -51,7 +51,8 @@ If you would like to reach me, please send an email to tmliu AT hust.edu.cn
 <li>
 <div><strong>Mobile App Analysis in the New Era: Challenges and the Road Ahead</strong></div>
 <div>Jiale Wu<strong><sup>(s)</sup></strong><sup>#</sup>, <strong>Tianming Liu<sup>#</sup></strong>, Yanjie Zhao, Haoyu Wang</div>
-<div><strong><em>ACM Transactions on Software Engineering and Methodology (TOSEM), Published in 2026</em></strong>&nbsp;&nbsp;<a href="https://dl.acm.org/doi/10.1145/3819579" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
+<div><strong><em>ACM Transactions on Software Engineering and Methodology (TOSEM), 2026</em></strong>&nbsp;&nbsp;<a href="https://dl.acm.org/doi/10.1145/3819579" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
+
 </li>
 
 <li>
@@ -99,7 +100,8 @@ If you would like to reach me, please send an email to tmliu AT hust.edu.cn
 <li>
 <div><strong>The Arts and Crafts of Android Adware Across a Decade</strong></div>
 <div>Chao Wang<strong><sup>(s)</sup></strong><sup>#</sup>, <strong>Tianming Liu<sup>#</sup></strong>, Yanjie Zhao, Lin Zhang, Xiaoning Du, Li Li, Haoyu Wang</div>
-<div><strong><em>Automated Software Engineering (ASE Journal), Published in 2025</em></strong>&nbsp;&nbsp;<a href="https://link.springer.com/article/10.1007/s10515-025-00575-9" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
+<div><strong><em>Automated Software Engineering (ASE Journal), 2025</em></strong>&nbsp;&nbsp;<a href="https://link.springer.com/article/10.1007/s10515-025-00575-9" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
+
 </li>
 
 <li>
@@ -136,7 +138,8 @@ If you would like to reach me, please send an email to tmliu AT hust.edu.cn
 <div><strong>WalletRadar: Towards Automating the Detection of Vulnerabilities in Browser-based Cryptocurrency Wallets</strong></div>
 <!-- <div>Pengcheng Xia, Yanhui Guo, Zhaowen Lin, Jun Wu, Pengbo Duan, Ningyu He, Kailong Wang, <strong>Tianming Liu</strong>, Yinliang Yue, Guoai Xu, Haoyu Wang</div> -->
 <div>P. Xia, Y. Guo, Z. Lin, J. Wu, P. Duan, N. He, K. Wang, <strong>Tianming Liu</strong>, Y. Yue, G. Xu, H. Wang</div>
-<div><strong><em>Automated Software Engineering (ASE Journal), Published in 2024</em></strong>&nbsp;&nbsp;<a href="https://link.springer.com/article/10.1007/s10515-024-00430-3" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
+<div><strong><em>Automated Software Engineering (ASE Journal), 2024</em></strong>&nbsp;&nbsp;<a href="https://link.springer.com/article/10.1007/s10515-024-00430-3" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
+
 </li>
 
 <li>
@@ -166,13 +169,15 @@ If you would like to reach me, please send an email to tmliu AT hust.edu.cn
 <li>
 <div><strong>Research on Third-party Libraries in Android Apps: A Taxonomy and Systematic Literature Review</strong></div>
 <div>Xian Zhan, <strong>Tianming Liu</strong>, Lingling Fan, Li Li, Sen Chen, Xiapu Luo, Yang Liu</div>
-<div><strong><em>IEEE Transactions on Software Engineering (TSE), Published in 2021</em></strong>&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/document/9542854" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
+<div><strong><em>IEEE Transactions on Software Engineering (TSE), 2021</em></strong>&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/document/9542854" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
+
 </li>
 
 <li>
 <div><strong>A Systematic Assessment on Android Third-party Library Detection Tools</strong></div>
 <div>Xian Zhan, <strong>Tianming Liu</strong>, Yepang Liu, Yang Liu, Li Li, Haoyu Wang, Xiapu Luo</div>
-<div><strong><em>IEEE Transactions on Software Engineering (TSE), Published in 2021</em></strong>&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/document/9551847" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
+<div><strong><em>IEEE Transactions on Software Engineering (TSE), 2021</em></strong>&nbsp;&nbsp;<a href="https://ieeexplore.ieee.org/document/9551847" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>
+
 </li>
 
 <li>

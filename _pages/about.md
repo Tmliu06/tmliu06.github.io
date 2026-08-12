@@ -74,6 +74,11 @@ If you would like to reach me, please send an email to tmliu AT hust.edu.cn
 </li>
 
 <li>
+<div><strong>Reproducing UI Contexts Described in App Reviews with Large Language Models</strong></div>
+<div>Ran Jin<strong><sup>(s)</sup></strong><sup>#</sup>, <strong>Tianming Liu<sup>#</sup></strong>, Jun Chen, Yanjie Zhao, Xiao Chen, Xiaoning Du, Li Li, Haoyu Wang</div>
+<div><strong><em>Automated Software Engineering (ASE Journal), 2026</em></strong></div>
+
+<li>
 <div><strong>LLMDroid: Enhancing Automated Mobile App GUI Testing Coverage with Large Language Model Guidance</strong></div>
 <div>Chenxu Wang<strong><sup>(s)</sup></strong><sup>#</sup>, <strong>Tianming Liu<sup>#</sup></strong>, Yanjie Zhao, Minghui Yang, Haoyu Wang</div>
 <div><strong><em>FSE 2025</em></strong>&nbsp;&nbsp;<a href="https://dl.acm.org/doi/10.1145/3715763" style="text-decoration: none; background-color: #3b82f6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85em; font-weight: 500;">Paper</a></div>

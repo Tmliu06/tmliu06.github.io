@@ -1,3 +1,4 @@
-_site/
-push.sh
+*.swp
 .DS_Store
+Thumbs.db
+.claude/

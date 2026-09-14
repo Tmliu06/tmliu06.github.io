@@ -1,0 +1,303 @@
+/* Tianming Liu — academic homepage
+   Single-page static site. No build step, no dependencies. */
+
+:root {
+  --ink:    #0f1115;
+  --body:   #2c313b;
+  --mut:    #5c6270;
+  --faint:  #9aa0ad;
+  --line:   #e6e8ec;
+  --bg:     #ffffff;
+  --soft:   #f6f7f9;
+  --acc:    #2563eb;
+  --acc-dk: #1e4fc4;
+  --acc-bg: #eef2fb;
+  --gold:   #9a6a12;
+  --gold-bg:#fdf3e0;
+  --pdf:    #0e7a4e;
+  --pdf-bg: #e6f5ec;
+  --pdf-hi: #0a5c3a;
+  --pdf-bg-hi: #d3ecdd;
+
+  --font: "Inter", "Segoe UI Variable Text", "Segoe UI", system-ui,
+          -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font);
+  font-size: 15.5px;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+a { color: var(--acc); }
+
+/* ---------- layout ---------- */
+
+/* 1240px is not arbitrary: it is the narrowest width at which the longest
+   publication title (ATVHunter, 822px) still fits on a single line, once the
+   sidebar, the gap and the card padding are accounted for. */
+.wrap {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 56px 28px 88px;
+  display: grid;
+  grid-template-columns: 228px 1fr;
+  gap: 48px;
+  align-items: start;
+}
+
+.side { position: sticky; top: 48px; }
+
+/* ---------- identity card ---------- */
+
+.avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin-bottom: 20px;
+  background: var(--soft);
+  box-shadow: 0 8px 28px rgba(15, 17, 21, .13);
+}
+
+.name {
+  font-size: 25px;
+  font-weight: 700;
+  letter-spacing: -.02em;
+  margin: 0 0 3px;
+}
+
+.role { color: var(--mut); font-size: 14px;   margin: 0 0 3px; }
+.loc  { color: var(--faint); font-size: 13px; margin: 0 0 18px; }
+
+.links { display: flex; flex-direction: column; gap: 9px; font-size: 13.5px; }
+
+.links a {
+  color: var(--ink);
+  text-decoration: none;
+  display: flex;
+  gap: 9px;
+  align-items: center;
+}
+
+.links a:hover { color: var(--acc); }
+
+.dot {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--acc);
+  flex: none;
+}
+
+/* ---------- sections ---------- */
+
+section { margin-bottom: 46px; }
+
+h2 {
+  font-size: 19px;
+  font-weight: 700;
+  letter-spacing: -.015em;
+  margin: 0 0 16px;
+  display: flex;
+  align-items: center;
+  gap: 11px;
+}
+
+h2::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--line);
+}
+
+p { margin: 0 0 14px; color: var(--body); }
+
+section p a { text-decoration: none; font-weight: 500; }
+section p a:hover { text-decoration: underline; }
+
+.legend {
+  font-size: 12.5px;
+  color: var(--mut);
+  margin: -6px 0 18px;
+  line-height: 1.6;
+}
+
+/* ---------- publications ---------- */
+
+.pubs { list-style: none; margin: 0; padding: 0; counter-reset: pub; }
+
+/* Flat rows separated by a hairline, not bordered cards: a card costs 2px of
+   border plus the gap between cards, which is pure height 27 times over. */
+.pubs > li {
+  counter-increment: pub;
+  position: relative;
+  padding: 9px 10px 10px 38px;
+  border-bottom: 1px solid var(--line);
+  border-radius: 6px;
+  transition: background-color .14s;
+}
+
+.pubs > li:last-child { border-bottom: 0; }
+
+.pubs > li::before {
+  content: counter(pub);
+  position: absolute;
+  left: 0;
+  top: 10px;
+  width: 30px;
+  text-align: right;
+  font-size: 12.5px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  color: var(--faint);
+}
+
+.pubs > li:hover { background: var(--soft); }
+.pubs > li:hover::before { color: var(--acc); }
+
+.title { font-weight: 600; font-size: 15.5px; line-height: 1.35; margin-bottom: 1px; }
+
+.authors {
+  font-size: 13.5px;
+  color: var(--mut);
+  line-height: 1.5;
+}
+
+.authors .me { color: var(--ink); font-weight: 600; }
+
+/* Badges get their own row so every entry's badges start on the same
+   vertical line. Trailing them after the authors instead makes their left
+   edge follow the author list's ragged length, which reads as noise down
+   a long list. */
+.meta {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 4px;
+}
+
+.venue,
+.award,
+.paper,
+.pub-link {
+  font-size: 11.5px;
+  line-height: 1.6;
+  padding: 1px 8px;
+  border-radius: 5px;
+  white-space: nowrap;
+}
+
+.venue {
+  font-weight: 600;
+  letter-spacing: .02em;
+  background: var(--acc-bg);
+  color: var(--acc-dk);
+}
+
+.award {
+  font-weight: 600;
+  background: var(--gold-bg);
+  color: var(--gold);
+}
+
+/* The PDF badge is the one thing on the page a reader might click to take
+   something away, so it gets its own colour rather than the neutral outline. */
+.paper {
+  font-weight: 600;
+  color: var(--pdf);
+  background: var(--pdf-bg);
+  text-decoration: none;
+}
+
+.paper:hover { color: var(--pdf-hi); background: var(--pdf-bg-hi); }
+
+/* The canonical record of the paper, via doi.org. Deliberately the quietest
+   badge in the row: it is the fallback, the PDF is the main path. One entry
+   is labelled Publisher instead of DOI — USENIX assigns no DOIs. */
+.pub-link {
+  font-weight: 500;
+  color: var(--mut);
+  text-decoration: none;
+  border: 1px solid var(--line);
+  padding: 0 8px;
+}
+
+.pub-link:hover { color: var(--acc); border-color: #bcd0f5; }
+
+.notice {
+  margin: 18px 0 0;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+  font-size: 12px;
+  line-height: 1.65;
+  color: var(--faint);
+}
+
+/* ---------- footer ---------- */
+
+.updated {
+  color: var(--faint);
+  font-size: 13px;
+  margin: 0;
+}
+
+/* ---------- responsive ---------- */
+
+@media (max-width: 820px) {
+  .wrap { grid-template-columns: 1fr; gap: 34px; padding-top: 40px; }
+  .side { position: static; }
+  .avatar { width: 116px; height: 116px; }
+}
+
+@media (max-width: 520px) {
+  body { font-size: 15px; }
+  /* Same flat-row rhythm as the desktop list, just a narrower number gutter. */
+  .pubs > li { padding: 9px 2px 10px 30px; }
+  .pubs > li::before { width: 22px; }
+}
+
+/* ---------- dark mode (follows the OS) ---------- */
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ink:    #e8eaef;
+    --body:   #c3c9d4;
+    --mut:    #8d94a3;
+    --faint:  #6b7280;
+    --line:   #262b34;
+    --bg:     #0f1115;
+    --soft:   #171a20;
+    --acc:    #7aa5f7;
+    --acc-dk: #a8c4fb;
+    --acc-bg: #1a2440;
+    --gold:   #e3b45c;
+    --gold-bg:#33270f;
+    --pdf:    #5fd39b;
+    --pdf-bg: #0f2f20;
+    --pdf-hi: #8ae5bb;
+    --pdf-bg-hi: #16452e;
+  }
+
+  .avatar { box-shadow: 0 8px 28px rgba(0, 0, 0, .5); }
+
+}
+
+/* ---------- print ---------- */
+
+@media print {
+  .wrap { display: block; max-width: none; padding: 0; }
+  .avatar { box-shadow: none; }
+  .pubs > li { break-inside: avoid; border-color: #ddd; }
+}

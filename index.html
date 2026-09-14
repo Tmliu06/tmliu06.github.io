@@ -4,7 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Tianming Liu</title>
+<!-- 574px wide in Google's desktop SERP font (Arial 20px), inside the ~600px
+     cutoff. Adding "(HUST)" pushes it to 647px and gets the tail truncated. -->
+<title>Tianming Liu — Huazhong University of Science and Technology</title>
 <meta name="description" content="Tianming Liu — postdoctoral researcher at Huazhong University of Science and Technology, working on mobile security, software security, and software engineering.">
 <meta name="author" content="Tianming Liu">
 
@@ -34,6 +36,61 @@
 <meta name="theme-color" content="#ffffff">
 
 <link rel="stylesheet" href="assets/site.css">
+
+<!-- Structured data. Its job is disambiguation: "Tianming Liu" is not a unique
+     name in CS, so sameAs ties this page to the ORCID / Scholar / DBLP records
+     that identify one specific person. Keep it in sync with the sidebar links.
+     Email is deliberately left out — it adds nothing here and would be one more
+     machine-readable copy of the address. -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://tmliu06.github.io/#person",
+  "name": "Tianming Liu",
+  "url": "https://tmliu06.github.io/",
+  "image": "https://tmliu06.github.io/images/android-chrome-512x512.png",
+  "jobTitle": "Postdoctoral Researcher",
+  "identifier": "https://orcid.org/0000-0002-5216-933X",
+  "worksFor": {
+    "@type": "CollegeOrUniversity",
+    "name": "Huazhong University of Science and Technology",
+    "alternateName": "HUST",
+    "url": "https://www.hust.edu.cn/",
+    "department": {
+      "@type": "Organization",
+      "name": "School of Cyber Science and Engineering",
+      "url": "https://cse.hust.edu.cn/"
+    }
+  },
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Monash University",
+      "url": "https://www.monash.edu/"
+    },
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Beijing University of Posts and Telecommunications",
+      "alternateName": "BUPT",
+      "url": "https://www.bupt.edu.cn/"
+    }
+  ],
+  "knowsAbout": [
+    "Mobile Security",
+    "Software Security",
+    "Software Engineering",
+    "Android App Analysis",
+    "Mobile Agent Security"
+  ],
+  "sameAs": [
+    "https://scholar.google.com.hk/citations?user=nT5DxnMAAAAJ",
+    "https://dblp.org/pid/96/5013-2.html",
+    "https://orcid.org/0000-0002-5216-933X",
+    "https://www.researchgate.net/profile/Tianming-Liu-2"
+  ]
+}
+</script>
 </head>
 <body>
 

@@ -10,7 +10,7 @@ USENIX page instead.
 
 | File | DOI |
 |---|---|
-| `push-notification-ase2026industry.pdf` | — (ASE 2026 Industry Track, not yet online) |
+| `push-notification-ase2026industry.pdf` | https://doi.org/10.1145/3832783.3834475 |
 | `notdec-icse2026.pdf` | https://doi.org/10.1145/3744916.3787762 |
 | `mobile-app-analysis-tosem2026.pdf` | https://doi.org/10.1145/3819579 |
 | `doxing-www2026.pdf` | https://doi.org/10.1145/3774904.3792296 |
